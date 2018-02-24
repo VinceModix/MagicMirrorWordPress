@@ -1,0 +1,3 @@
+# MagicMirrorWordPress
+
+# will extend later
